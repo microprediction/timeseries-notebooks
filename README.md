@@ -6,4 +6,6 @@ Surprisingly few contain the most basic "hello world" univariate example: predic
 
 So here they are. 
 
+If you are interested in contributing, issues are maintained in the timemachines package including suggestions for new notebooks here. See also the [contributors guide](https://github.com/microprediction/timemachines/blob/main/CONTRIBUTE.md). 
+
 ![](https://i.imgur.com/PpWIhlx.png)
